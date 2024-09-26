@@ -80,7 +80,7 @@ body, p, h1, h2, input, textarea {
   /* banner */
   #main-banner {
     height: 90vh;
-    background-image: url('./back 2.jpg');
+    background-image: url('./fundo 2.jpg');
     background-size: cover;
     padding-top: 10vh;
     border-bottom: 0px solid #011b70;
