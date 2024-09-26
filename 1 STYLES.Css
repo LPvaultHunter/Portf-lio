@@ -80,7 +80,7 @@ body, p, h1, h2, input, textarea {
   /* banner */
   #main-banner {
     height: 90vh;
-    background-image: url('../img/back\ 2.jpg');
+    background-image: url('./back 2.jpg');
     background-size: cover;
     padding-top: 10vh;
     border-bottom: 0px solid #011b70;
@@ -281,15 +281,15 @@ body, p, h1, h2, input, textarea {
   }
   
   .proj1 {
-    background-image: url('../img/pro1.png');
+    background-image: url('./pro1.png');
   }
   
   .proj2 {
-    background-image: url('../img/por2.png');
+    background-image: url('./por2.png');
   }
   
   .proj3 {
-    background-image: url('../img/proj3.jpg');
+    background-image: url('./proj3.jpg');
   }
   
   /* footer */
