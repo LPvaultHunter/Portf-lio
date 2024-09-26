@@ -218,28 +218,28 @@ h1 {
 }
 
 .card-1 .card-image {
-  background-image: url(./img/Acessorios/acessorio1.png);
+  background-image: url(./acessorio1.png);
 }
 .card-2 .card-image {
-  background-image: url(./img/Acessorios/acessorio2.png);
+  background-image: url(./acessorio2.png);
 }
 .card-3 .card-image {
-  background-image: url(./img/Acessorios/acessorio3.png);
+  background-image: url(./acessorio3.png);
 }
 .card-4 .card-image {
-  background-image: url(./img/Calçados/chinelo2.png);
+  background-image: url(./chinelo2.png);
 }
 .card-5 .card-image {
-  background-image: url(./img/Calçados/tenisoldskool3.png);
+  background-image: url(./tenisoldskool3.png);
 }
 .card-6 .card-image {
-  background-image: url(./img/Calçados/produto4.png);
+  background-image: url(./produto4.png);
 }
 .card-7 .card-image {
-  background-image: url();
+  background-image: url(./produto4.png);
 }
 .card-8 .card-image {
-  background-image: url();
+  background-image: url(./produto4.png);
 }
 .btn1{
 display: block;
