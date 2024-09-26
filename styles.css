@@ -53,31 +53,31 @@ h11 {
 }
 
 .card-1 .cardimage0 {
-    background-image: url(../img/IMG_20210317_170048_719.jpg);
+    background-image: url(./IMG_20210317_170048_719.jpg);
 }
 .card-2 .cardimage0 {
-    background-image: url(../img/IMG_20210408_174130_142.jpg);
+    background-image: url(./IMG_20210408_174130_142.jpg);
 }
 .card-3 .cardimage0 {
-    background-image: url(../img/IMG_20210415_223159_667.jpg);
+    background-image: url(./IMG_20210415_223159_667.jpg);
 }
 .card-4 .cardimage0 {
-    background-image: url(../img/IMG_20210424_225218_564.jpg);
+    background-image: url(./IMG_20210424_225218_564.jpg);
 }
 .card-5 .cardimage0 {
-    background-image: url(../img/emote3.png);
+    background-image: url(./emote3.png);
 }
 .card-6 .cardimage0 {
-    background-image: url(../img/hardwork_3.png);
+    background-image: url(./hardwork_3.png);
 }
 .card-7 .cardimage0 {
-    background-image: url(../img/Remake_Duo.png);
+    background-image: url(./Remake_Duo.png);
 }
 .card-8 .cardimage0 {
-    background-image: url(../img/Mehra.png);
+        background-image: url(./Mehra.png);
 }
 
-.btn {
+.btn {    
     display: block;
     background-color: #4AB7E8;
     color: #fff;
@@ -104,7 +104,7 @@ h11 {
 }
 /* imagem de fundo */
 #fundo {
-    background-image:url(../img/adrien-wodey-F4r-oQRH0rs-unsplash.jpg);
+    background-image:url(./adrien-wodey-F4r-oQRH0rs-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     max-width: auto;
